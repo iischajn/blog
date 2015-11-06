@@ -1,0 +1,14 @@
+{
+  "apps": [{
+    "name": "chajn_org",
+    "script": "www/production.js",
+    "cwd": "/home/chajn/chajn_org",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
