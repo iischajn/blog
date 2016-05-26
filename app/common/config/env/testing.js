@@ -1,3 +1,4 @@
-'use strict';exports.__esModule = true;exports['default'] = 
+'use strict';
 
-{};module.exports = exports['default'];
+exports.__esModule = true;
+exports.default = {};
